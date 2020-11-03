@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently looking for Junior Fullstack Developer position.
+I'm currently looking for Junior Fullstack Developer position.<br>
 📫 How to reach me:Ella271@gmail.com
 <!--
 **ellatom/ellatom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
